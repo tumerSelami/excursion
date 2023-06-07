@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    background-color: hsl(0, 0%, 8%);
+    color: hsl(0, 0%, 100%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*HEADER*/
+
+h1 {
+    font-size: 5rem;
+    margin-block: 2.5rem;
+    font-weight: 400;
+}
+
+a {
+    font-size: 1.6rem;
+    color: hsl(160, 100%, 75%);
+}
